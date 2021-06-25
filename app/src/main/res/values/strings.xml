@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AIDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_github">访问github</string>
+
+    <string name="menu_home">主页</string>
+    <string name="menu_objectDetection">目标检测</string>
+    <string name="menu_imageRecognition">图像识别</string>
+
+    <string name="github">github.com/imzyp/pytorch_android_kotlin</string>
+    <string name="load">正在加载模型...耐心等待...</string>
+
+    <string name="detect">开始检测</string>
+    <string name="recognition">开始识别</string>
+    <string name="test">内置测试图片</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.android.aidemo.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_imageRecognition"
+        android:name="com.android.aidemo.ui.imageRecognition.ImageRecognitionFragment"
+        android:label="@string/menu_imageRecognition"
+        tools:layout="@layout/fragment_image_recognition" />
+
+    <fragment
+        android:id="@+id/nav_objectDetection"
+        android:name="com.android.aidemo.ui.objectDetection.ObjectDetectionFragment"
+        android:label="@string/menu_objectDetection"
+        tools:layout="@layout/fragment_object_detection" />
+</navigation>

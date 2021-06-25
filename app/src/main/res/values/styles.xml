@@ -1,0 +1,9 @@
+<resources>
+    <style name="Widget.Theme.AIDemo.MyView" parent="">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Light.Dialog">
+    </style>
+</resources>

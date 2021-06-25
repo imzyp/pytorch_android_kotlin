@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="takePhoto" type="id" />
+    <item name="fromAlbum" type="id" />
+    <item name="realTime" type="id" />
+</resources>
