@@ -64,7 +64,7 @@ Build and enjoy it
 #### From album
 <img src="gif/ImageRecognition_fromAlbum.gif" width="32%" />
 
-#### Real time
+#### Real time（Frame rate is low, improving）
 <img src="gif/ImageRecognition_realTime.gif" width="32%" />
 
 ### Object detection
@@ -83,10 +83,7 @@ Build and enjoy it
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache-2.0 License
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Reference project
+Part of the code comes from the Pytorch  [android-demo-app](https://github.com/pytorch/android-demo-app)
