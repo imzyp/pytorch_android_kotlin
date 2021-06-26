@@ -53,11 +53,6 @@ android.enableJetifier=true
 Build and enjoy it
 
 
-### software
-
-Android Studio
-Pytorch 1.9
-
 ## Demo
 ### Image recognition
 #### Test image
@@ -73,6 +68,17 @@ Pytorch 1.9
 <img src="gif/ImageRecognition_realTime.gif" width="32%" />
 
 ### Object detection
+#### Test image
+<img src="gif/objectDetection_testImage.gif" width="32%" />
+
+#### Take photo
+<img src="gif/objectDetection_takePhoto.gif" width="32%" />
+
+#### From album
+<img src="gif/objectDetection_fromAlbum.gif" width="32%" />
+
+#### Real time
+<img src="gif/objectDetection_realTime.gif" width="32%" />
 
 
 ## License
