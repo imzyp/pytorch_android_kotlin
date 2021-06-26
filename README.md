@@ -61,6 +61,7 @@ Pytorch 1.9
 ## Demo
 ### Image recognition
 * Test image
+<img src="gif/ImageRecognition_testImage.gif">
 * Take photo
 * From album
 * Real time
