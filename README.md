@@ -64,7 +64,7 @@ Build and enjoy it
 #### From album
 <img src="gif/ImageRecognition_fromAlbum.gif" width="32%" />
 
-#### Real time（Frame rate is low, improving）
+#### Real time
 <img src="gif/ImageRecognition_realTime.gif" width="32%" />
 
 ### Object detection
@@ -77,7 +77,7 @@ Build and enjoy it
 #### From album
 <img src="gif/objectDetection_fromAlbum.gif" width="32%" />
 
-#### Real time
+#### Real time（Frame rate is low, improving）
 <img src="gif/objectDetection_realTime.gif" width="32%" />
 
 
