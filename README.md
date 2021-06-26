@@ -62,12 +62,16 @@ Pytorch 1.9
 ### Image recognition
 #### Test image
 <img src="gif/ImageRecognition_testImage.gif" width="32%" />
+
 #### Take photo
 <img src="gif/ImageRecognition_takePhoto.gif" width="32%" />
+
 #### From album
 <img src="gif/ImageRecognition_fromAlbum.gif" width="32%" />
+
 #### Real time
 <img src="gif/ImageRecognition_realTime.gif" width="32%" />
+
 ### Object detection
 
 
