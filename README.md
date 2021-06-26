@@ -60,6 +60,10 @@ Pytorch 1.9
 
 ## Demo
 ### Image recognition
+* Test image
+* Take photo
+* From album
+* Real time
 ### Object detection
 
 
