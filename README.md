@@ -4,7 +4,11 @@ An Android project containing image recognition and object detection models.
 
 Users can input images into the deep learning model by taking photos, opening photo albums, and real-time previews on the Android side. After the calculation on the Android side is completed, the model will output the prediction result and show it to the user.
 
+
 ## ToDo
+- [ ] UI Language
+    - [x] Chinese
+    - [ ] English
 - [ ] Semantic segmentation
 - [ ] Faster computing speed
 - [ ] Mobile gpu support
